@@ -14,7 +14,7 @@ Installing if needed
 
 2] Run the commad 
 		
-		- ruby main.rb -d 3 -l 100
+		ruby main.rb -d 3 -l 100
 		where -d depth limit -l page limit 
 
 3] Executed
